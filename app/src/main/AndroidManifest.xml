@@ -18,6 +18,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".style1.Style1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".style2.Style2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".style3.Style3Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SignActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
