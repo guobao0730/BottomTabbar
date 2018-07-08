@@ -1,22 +1,27 @@
 # BottomTabbar
 
-## 一、项目介绍
+### 一、项目介绍
+
 Android 底部导航栏3种 UI 模板
 
-## 二、效果图
+### 二、效果图
+
 ![gif][1]
+
 如果动图加载失败，可以参考下面的静图
 ![image][2]
 
-## 三、风格说明
+### 三、风格说明
+
 1. 风格1是使用 Android 原生的 BottomNavigationView 控件
 2. 风格2是使用的 RadioGroup + ViewPager 实现的一个效果
 3. 风格3也是使用的 RadioGroup，只不过中间多了一个大按钮可以跳转到另一个页面
 
-## 四、使用说明
+### 四、使用说明
+
 参考博客：[https://blog.csdn.net/afei__/article/details/80950288](https://blog.csdn.net/afei__/article/details/80950288)
 
-#### 参与贡献
+### 五、参与贡献
 
 1. Fork 本项目
 2. 新建 Feat_xxx 分支
@@ -24,7 +29,7 @@ Android 底部导航栏3种 UI 模板
 4. 新建 Pull Request
 
 
-#### 码云特技
+### 六、码云特技
 
 1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
